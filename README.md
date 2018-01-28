@@ -85,6 +85,6 @@ Please contribute! I did this for fun but it would be cool to build this out and
 
 ## Acknowledgments
 
-* Hat tip to [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US) to motivate me to do something better 
+* Hat tip to [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US) for motivating me to do something better 
 
 

@@ -76,7 +76,7 @@ I wrote this when I first began learning how to code. Junior then and junior now
 
 ## Contributing
 
-Please contribute! I did this for fun but it would be cool to build this out and combine it with something else like...crop out the ads, write a visual recogniation algo using Tenserflow to identify brands and keep track of advertiser spends across the internet (I work in media lol). Visually verison control your competitors. Come-on, think of something better.....
+Please contribute! I did this for fun but it would be cool to build this out and combine it with something else like...crop out the ads, write a visual recogniation algo using Tenserflow to identify brands and keep track of advertiser campaigns across the internet (yep, I work in media). Visual version control your competitors. Come-on, think of something better.....
 
 ## Authors
 

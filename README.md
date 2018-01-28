@@ -53,16 +53,13 @@ I wrote this script to only work on web pages where you have to scroll. Otherwis
 ```
 
 1. Go into the repo if you aren't already
-
 cd wanton
 
 2. Start the env if you haven't already
-
 source env/bin/activate
 
 3. Add the url you want to take a screenshot of as a command line argument
-
-python screenshot_manager.py https://paidpost.nytimes.com/ritz-carlton/light-and-elegance.html
+python screenshot_manager.py https://yoururlgoeshere.com
 
 ```
 

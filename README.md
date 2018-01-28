@@ -38,7 +38,7 @@ cd wanton
 2. Start the env if you haven't already
 source env/bin/activate
 
-3. Run the python script. It will take a screenshot of the following website [NY Times](http://paidpost.nytimes.com/milkpep/a-fresh-look.html)
+3. Run the python script. It will take a screenshot of the following webpage http://paidpost.nytimes.com/milkpep/a-fresh-look.html
 python screenshot_manager.py
 
 4. Wait about 15 seconds. The screenshot should pop-up once the script has finished running.
@@ -62,7 +62,7 @@ source env/bin/activate
 
 3. Add the url you want to take a screenshot of as a command line argument
 
-python screenshot_manager.py https://www.wildwisdoms.com/
+python screenshot_manager.py https://paidpost.nytimes.com/ritz-carlton/light-and-elegance.html
 
 ```
 

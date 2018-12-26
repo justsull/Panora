@@ -1,4 +1,4 @@
-# Wanton - full page screenshot app
+# Wanton - full web page screenshot app
 
 As a product manager, I found myself taking screenshots of a wide array of sites with long web pages. In this process, I often found that many of the pages were longer than my screen so I was unable the capture the complete web page as one screenshot. As I was in the intial stages of learning python, I thought it would be a great opportunity to test my skills and write a script to solve this problem. Enter Wanton: a full page screenshot app. Through a simple command line trigger, you can easily take a screenshot of the full web page of any site.  Although many web pages leverage fancy animation, most screenshot apps will not trigger the animations and will deliver an incomplete image. Not Wanton, it does a good job of capturing the bigger picture.
 

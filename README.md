@@ -1,6 +1,6 @@
 # Wanton - full page screenshot app
 
-As a product manager, I found myself taking screenshots of a bunch of sites with really long pages (I would then add annotations to the images for my developement and design team). Since I was just learning python, I decided to write my own script that could take a screen shot of the full web page. Enter Wanton - full page screenshot app. Since a bunch of modern single page apps leverage a lot of fancy animation, most screenshot apps I discovered wouldn't trigger the animations and would deliver an incomplete picture. Not Wanton - it does a good job of capturing what's really going on.
+As a product manager, I found myself taking screenshots of a wide array of sites with long web pages. In this process, I often found that many of the pages were longer than my screen so I was unable the capture the complete web page as one screenshot. As I was in the intial stages of learning python, I thought it would be a great opportunity to test my skills and write a script to solve this problem. Enter Wanton: a full page screenshot app. Through a simple command line trigger, you can easily take a screenshot of the full web page of any site.  Although many web pages leverage fancy animation, most screenshot apps will not trigger the animations and will deliver an incomplete image. Not Wanton, it does a good job of capturing the bigger picture.
 
 # Checkout the demo below!
 
@@ -70,7 +70,7 @@ python screenshot_manager.py https://yoururlgoeshere.com
 
 ## Built With
 
-I wrote this when I first began learning how to code. Junior then and junior now - always stay junior. Some of the biggest motivations to writing this script was to learn Pillow, Selenium, and play with Google Chrome Driver.
+I wrote this when I first began learning how to code. Some of the biggest motivations to writing this script was to learn Pillow, Selenium, and play with Google Chrome Driver.
 
 * [Pillow](https://pillow.readthedocs.io/en/latest/) - Python Imaging Library used for processing screenshots
 * [Selenium](http://www.seleniumhq.org/) - Used for Web Driver Automation
@@ -78,7 +78,7 @@ I wrote this when I first began learning how to code. Junior then and junior now
 
 ## Contributing
 
-Please contribute! I did this for fun but it would be cool to build this out and combine it with something else like...crop out the ads, write a visual recogniation algo using Tenserflow to identify brands and keep track of advertiser campaigns across the internet (yep, I work in media). Visual version control your competitors. Come-on, think of something better.....
+Please contribute! I did this for fun but it would be cool to build this out and combine it with something else like... write a visual recogniation algo using Tenserflow to identify brands and keep track of advertiser campaigns across the internet.
 
 ## Authors
 

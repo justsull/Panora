@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ### Prerequisites
 
-This is seriouly one of the simplest apps ever. Use your favorite terminal to get this sucker going.
+Use your favorite terminal to get this app up and running.
 
 
 ## Running the tests

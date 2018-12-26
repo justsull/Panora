@@ -2,6 +2,11 @@
 
 As a product manager, I found myself taking screenshots of a bunch of sites with really long pages (I would then add annotations to the images for my developement and design team). Since I was just learning python, I decided to write my own script that could take a screen shot of the full web page. Enter Wanton - full page screenshot app. Since a bunch of modern single page apps leverage a lot of fancy animation, most screenshot apps I discovered wouldn't trigger the animations and would deliver an incomplete picture. Not Wanton - it does a good job of capturing what's really going on.
 
+# Checkout the demo below!
+
+![](wantondemo.gif)
+
+
 ## Getting Started
 
 ```

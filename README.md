@@ -1,44 +1,40 @@
-# Wanton - full web page screenshot app
 
-As a product manager, I found myself taking screenshots of a wide array of sites with long web pages. In this process, I often found that many of the pages were longer than my screen so I was unable the capture the complete web page as one screenshot. As I was in the intial stages of learning python, I thought it would be a great opportunity to test my skills and write a script to solve this problem. Enter Wanton: a full page screenshot app. Through a simple command line trigger, you can easily take a screenshot of the full web page of any site.  Although many web pages leverage fancy animation, most screenshot apps will not trigger the animations and will deliver an incomplete image. Not Wanton, it does a good job of capturing the bigger picture.
+# Panora - Full Web Page Screenshot App
 
-# Checkout the demo below!
+As a product manager, I found myself taking screenshots of a wide array of sites with long web pages. In this process, I often found that many of the pages were longer than my screen, so I was unable to capture the complete web page as one screenshot. As I was in the initial stages of learning Python, I thought it would be a great opportunity to test my skills and write a script to solve this problem. Enter **Panora**: a full-page screenshot app. Through a simple command line trigger, you can easily take a screenshot of the full web page of any site. Although many web pages leverage fancy animation, most screenshot apps will not trigger the animations and will deliver an incomplete image. Not **Panora**, it does a good job of capturing the bigger picture.
 
-![](wantondemo.gif)
+# Check out the demo below!
 
+![](panorademo.gif)
 
 ## Getting Started
 
 ```
-
 1. Clone repo
-git clone https://github.com/justsull/wanton.git
+git clone https://github.com/justsull/panora.git
 
 2. Go into repo
-cd wanton
+cd panora
 
-3. make a virtual environment
+3. Make a virtual environment
 virtualenv -p python3 env
 
-4. start the env
+4. Start the env
 source env/bin/activate
 
-5. install the requirements
+5. Install the requirements
 pip install -r requirements.txt
-
 ```
 
 ### Prerequisites
 
 Use your favorite terminal to get this app up and running.
 
-
 ## Running the tests
 
 ```
-
 1. Go into the repo if you aren't already
-cd wanton
+cd panora
 
 2. Start the env if you haven't already
 source env/bin/activate
@@ -47,30 +43,26 @@ source env/bin/activate
 python screenshot_manager.py
 
 4. Wait about 15 seconds. The screenshot should pop-up once the script has finished running.
-
 ```
-
 
 ### Take screenshots of your favorite sites
 
-I wrote this script to only work on web pages where you have to scroll. Otherwise just press shift-command-4 ;). 
+I wrote this script to only work on web pages where you have to scroll. Otherwise, just press shift-command-4 ;).
 
 ```
-
 1. Go into the repo if you aren't already
-cd wanton
+cd panora
 
 2. Start the env if you haven't already
 source env/bin/activate
 
 3. Add the url you want to take a screenshot of as a command line argument
 python screenshot_manager.py https://yoururlgoeshere.com
-
 ```
 
 ## Built With
 
-I wrote this when I first began learning how to code. Some of the biggest motivations to writing this script was to learn Pillow, Selenium, and play with Google Chrome Driver.
+I wrote this when I first began learning how to code. Some of the biggest motivations for writing this script were to learn Pillow, Selenium, and play with Google Chrome Driver.
 
 * [Pillow](https://pillow.readthedocs.io/en/latest/) - Python Imaging Library used for processing screenshots
 * [Selenium](http://www.seleniumhq.org/) - Used for Web Driver Automation
@@ -78,15 +70,13 @@ I wrote this when I first began learning how to code. Some of the biggest motiva
 
 ## Contributing
 
-Please contribute! I did this for fun but it would be cool to build this out and combine it with something else like... write a visual recogniation algo using Tenserflow to identify brands and keep track of advertiser campaigns across the internet.
+Please contribute! I did this for fun but it would be cool to build this out and combine it with something else like... writing a visual recognition algorithm using TensorFlow to identify brands and keep track of advertiser campaigns across the internet.
 
 ## Authors
 
-* **Justin Sullivan** - [Linkedin](https://www.linkedin.com/in/justsull)
-
+* **Justin Sullivan** - [LinkedIn](https://www.linkedin.com/in/justsull)
 
 ## Acknowledgments
 
-* Hat tip to [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US) for motivating me to do something better 
-
+* Hat tip to [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US) for motivating me to do something better.
 
